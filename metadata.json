@@ -1,0 +1,8 @@
+{
+  "name": "GoWander",
+  "description": "A premium travel application for exploring global destinations, featuring seamless onboarding, secure authentication, and a visually stunning travel discovery interface.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
